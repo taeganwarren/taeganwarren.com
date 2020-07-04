@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Classic"
+title = "taeganwarren.com"
 theme = "hugo-classic"
 googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
@@ -15,6 +15,6 @@ disableKinds = ["taxonomy", "term", "RSS"]
     post = "/post/:year/:month/:day/:slug/"
 
 [params]
-    description = "A simple, minimal blog for those who love text."
+    description = "My personal website."
     footer = "Built with [Hugo](https://gohugo.io/) | Deployed with [Netlify](https://www.netlify.com/) | Theme by [Goodroot](https://keybase.io/goodroot)"
     custom_css = ["css/theme-override.css"]
