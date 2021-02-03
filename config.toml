@@ -16,5 +16,5 @@ disableKinds = ["taxonomy", "term", "RSS"]
 
 [params]
     description = "My personal website."
-    footer = "Built with [Hugo](https://gohugo.io/) | Deployed with [Netlify](https://www.netlify.com/) | Theme by [Goodroot](https://keybase.io/goodroot)"
+    footer = "Built with [Hugo](https://gohugo.io/) | Deployed with [Netlify](https://www.netlify.com/) | Theme by [Goodroot](https://github.com/goodroot)"
     custom_css = ["css/theme-override.css"]
