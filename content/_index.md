@@ -13,7 +13,7 @@ title: Home
 
 I am a 24 year old computer science graduate from Oregon State University with a focus on web and mobile application development. I enjoy working with servers, backend and API development, playing video games, and drinking coffee. Find me at the links below.
 
-[Github](https://github.com/taeganwarren) | [Linkedin](https://www.linkedin.com/in/taegan-warren-47b570121/)
+[taegan.link](https://taegan.link/)
 
 ---
 
